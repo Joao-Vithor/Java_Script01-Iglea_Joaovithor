@@ -1,1 +1,1 @@
-alert ('Olá mendo');
+document.querySelector('.tecla_pom');
